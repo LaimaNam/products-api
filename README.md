@@ -17,7 +17,9 @@ product_description: "Carbonite web goalkeeper gloves are ergonomically designed
 product_image: "http://loremflickr.com/640/480/transport",
 product_price: "$225.31",
 product_rating: "2"
-},
+}, 
+
+
 {
 id: 1,
 product_name: "Ergonomic Steel Pants",
@@ -26,6 +28,8 @@ product_image: "http://loremflickr.com/640/480/transport",
 product_price: "$14.82",
 product_rating: "0"
 },
+
+
 {
 id: 2,
 product_name: "Fantastic Steel Towels",
@@ -33,6 +37,6 @@ product_description: "The Nagasaki Lander is the trademarked name of several ser
 product_image: "http://loremflickr.com/640/480/transport",
 product_price: "$489.39",
 product_rating: "4"
-},
+}
 
 ETC.
